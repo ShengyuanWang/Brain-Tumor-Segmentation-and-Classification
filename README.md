@@ -12,7 +12,7 @@ Paper:
 - [x] Data Collection  
 - [x] Data Preprocessing  
 - [x] Methodology  
-- [ ] Experiment  
+- [x] Experiment  
 - [ ] Discussion and Analysis  
 - [ ] Conclusion
 - [ ] Review and Final Draft Modification
@@ -26,7 +26,5 @@ Code:
 
 Winter Break Plan:
 Train Model:
-- [ ] Unet CNN Model (4 days)
-- [ ] Transfer Learning (4 days)
-- [ ] Evaluation Metrics (4 days)
-- [ ] Paper Writing for the else (the rest of the break)
+- [x] Unet CNN Model (4 days)
+- [x] Transfer Learning (4 days)
